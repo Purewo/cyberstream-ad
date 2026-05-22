@@ -1,0 +1,6 @@
+{
+  "name": "CyberStream",
+  "description": "Android client for the CyberStream media server",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
