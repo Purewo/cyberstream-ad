@@ -2,10 +2,14 @@ package com.example.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+val CyberPrimary = Color(0xFF00E5FF)
+val CyberSecondary = Color(0xFF00B0FF)
+val CyberTertiary = Color(0xFF651FFF)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val CyberBackground = Color(0xFF0D0D0D)
+val CyberSurface = Color(0xFF1A1A1A)
+val CyberSurfaceVariant = Color(0xFF262626)
+
+val CyberPrimaryDark = Color(0xFF00E5FF)
+val CyberSecondaryDark = Color(0xFF00B0FF)
+val CyberTertiaryDark = Color(0xFF651FFF)
